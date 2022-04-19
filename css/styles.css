@@ -1,3 +1,24 @@
 .hci-img {
     margin-top: 3.5rem;
 }
+
+.hci-input {
+    margin-top: 2rem;
+    outline: none;
+    border: none;
+    border: 1px solid #bababa;
+    width: 34rem;
+    border-radius: 100px;
+    padding: 0.5rem 0;
+    border-left-style: none;
+}
+
+.input-group-text {
+    margin-top: 2rem;
+    border-radius: 100px;
+    background-color: #fff;
+    border-right-style: none;
+    color: #9c9c9c;
+}
+
+
